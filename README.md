@@ -13,6 +13,8 @@ NumPy
 
 pandas
 
-scikit-learn (v0.17)
+scikit-learn
+
+Ensemble Methods
 
 Matplotlib
